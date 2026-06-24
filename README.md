@@ -8,7 +8,7 @@ Predicting medical insurance costs using Linear Regression and Random Forest.
 
 ```
 ├── insurance.csv                   # Raw dataset
-├── insurance_analysis_final.py     # Main code
+├── insurance analysis final.py     # Main code
 ├── eda.jpeg                        # Exploratory analysis plots
 ├── models.jpeg                      # Model comparison plots
 └── README.md
