@@ -18,6 +18,8 @@ Predicting medical insurance costs using Linear Regression and Random Forest.
 
 ## 📊 Dataset
 
+https://www.kaggle.com/code/mariapushkareva/medical-insurance-cost-with-linear-regression
+
 | Column | Type | Description |
 |---|---|---|
 | `age` | int | Age of the beneficiary |
