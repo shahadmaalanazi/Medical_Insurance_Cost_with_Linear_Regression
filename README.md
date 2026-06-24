@@ -3,7 +3,7 @@
 Predicting medical insurance costs using Linear Regression and Random Forest.
 
 ---
-
+ 
 ## 📁 Project Structure
 
 ```
